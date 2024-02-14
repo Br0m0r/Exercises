@@ -62,4 +62,3 @@ Console.WriteLine($"the average of {N1} {N2} {N3} {N4} is {(N1 + N2 + N3 + N4) /
 */
 #endregion
 
-//blablabla
