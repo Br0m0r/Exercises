@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W3ResourceEx.BASIC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87e4f2ef6a5c399d2aabcea44fcbba7344f0ba05")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e0efe6466eff0f54766d3bf731ec4dc0dd2a98")]
 [assembly: System.Reflection.AssemblyProductAttribute("W3ResourceEx.BASIC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W3ResourceEx.BASIC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
