@@ -1,0 +1,15 @@
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\bin\Debug\net8.0\Lucian's Luscious Lasagna.exe
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\bin\Debug\net8.0\Lucian's Luscious Lasagna.deps.json
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\bin\Debug\net8.0\Lucian's Luscious Lasagna.runtimeconfig.json
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\bin\Debug\net8.0\Lucian's Luscious Lasagna.dll
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\bin\Debug\net8.0\Lucian's Luscious Lasagna.pdb
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\obj\Debug\net8.0\Lucian's Luscious Lasagna.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\obj\Debug\net8.0\Lucian's Luscious Lasagna.AssemblyInfoInputs.cache
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\obj\Debug\net8.0\Lucian's Luscious Lasagna.AssemblyInfo.cs
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\obj\Debug\net8.0\Lucian's Luscious Lasagna.csproj.CoreCompileInputs.cache
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\obj\Debug\net8.0\Lucian's Luscious Lasagna.sourcelink.json
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\obj\Debug\net8.0\Lucian's Luscious Lasagna.dll
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\obj\Debug\net8.0\refint\Lucian's Luscious Lasagna.dll
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\obj\Debug\net8.0\Lucian's Luscious Lasagna.pdb
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\obj\Debug\net8.0\Lucian's Luscious Lasagna.genruntimeconfig.cache
+D:\Git Hub Trials\Exercises\Exercism\Lucian's Luscious Lasagna\Lucian's Luscious Lasagna\obj\Debug\net8.0\ref\Lucian's Luscious Lasagna.dll

@@ -1,0 +1,15 @@
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\bin\Debug\net8.0\Bird Watcher.exe
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\bin\Debug\net8.0\Bird Watcher.deps.json
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\bin\Debug\net8.0\Bird Watcher.runtimeconfig.json
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\bin\Debug\net8.0\Bird Watcher.dll
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\bin\Debug\net8.0\Bird Watcher.pdb
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\obj\Debug\net8.0\Bird Watcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\obj\Debug\net8.0\Bird Watcher.AssemblyInfoInputs.cache
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\obj\Debug\net8.0\Bird Watcher.AssemblyInfo.cs
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\obj\Debug\net8.0\Bird Watcher.csproj.CoreCompileInputs.cache
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\obj\Debug\net8.0\Bird Watcher.sourcelink.json
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\obj\Debug\net8.0\Bird Watcher.dll
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\obj\Debug\net8.0\refint\Bird Watcher.dll
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\obj\Debug\net8.0\Bird Watcher.pdb
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\obj\Debug\net8.0\Bird Watcher.genruntimeconfig.cache
+D:\Git Hub Trials\Exercises\Exercism\Bird Watcher\Bird Watcher\obj\Debug\net8.0\ref\Bird Watcher.dll
