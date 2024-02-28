@@ -1,0 +1,15 @@
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\obj\Debug\net8.0\Log levels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\obj\Debug\net8.0\Log levels.AssemblyInfoInputs.cache
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\obj\Debug\net8.0\Log levels.AssemblyInfo.cs
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\obj\Debug\net8.0\Log levels.csproj.CoreCompileInputs.cache
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\obj\Debug\net8.0\Log levels.sourcelink.json
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\bin\Debug\net8.0\Log levels.exe
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\bin\Debug\net8.0\Log levels.deps.json
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\bin\Debug\net8.0\Log levels.runtimeconfig.json
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\bin\Debug\net8.0\Log levels.dll
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\bin\Debug\net8.0\Log levels.pdb
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\obj\Debug\net8.0\Log levels.dll
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\obj\Debug\net8.0\refint\Log levels.dll
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\obj\Debug\net8.0\Log levels.pdb
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\obj\Debug\net8.0\Log levels.genruntimeconfig.cache
+D:\Git Hub Trials\Exercises\Exercism\Log levels\Log levels\obj\Debug\net8.0\ref\Log levels.dll
