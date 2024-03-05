@@ -1,0 +1,15 @@
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\bin\Debug\net8.0\SuggestedToDo.exe
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\bin\Debug\net8.0\SuggestedToDo.deps.json
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\bin\Debug\net8.0\SuggestedToDo.runtimeconfig.json
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\bin\Debug\net8.0\SuggestedToDo.dll
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\bin\Debug\net8.0\SuggestedToDo.pdb
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\obj\Debug\net8.0\SuggestedToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\obj\Debug\net8.0\SuggestedToDo.AssemblyInfoInputs.cache
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\obj\Debug\net8.0\SuggestedToDo.AssemblyInfo.cs
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\obj\Debug\net8.0\SuggestedToDo.csproj.CoreCompileInputs.cache
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\obj\Debug\net8.0\SuggestedToDo.sourcelink.json
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\obj\Debug\net8.0\SuggestedToDo.dll
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\obj\Debug\net8.0\refint\SuggestedToDo.dll
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\obj\Debug\net8.0\SuggestedToDo.pdb
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\obj\Debug\net8.0\SuggestedToDo.genruntimeconfig.cache
+D:\Git Hub Trials\Exercises\More_Exercises\SuggestedToDo\SuggestedToDo\obj\Debug\net8.0\ref\SuggestedToDo.dll
