@@ -8,6 +8,3 @@ Exercism exercises can be found here : https://exercism.org/
 
 -------------------------
 
-Unit Testing : YU Tutorial link :  https://www.youtube.com/@TeddySmithDev
-
--------------------------
