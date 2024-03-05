@@ -1,0 +1,15 @@
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\bin\Debug\net8.0\strings.exe
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\bin\Debug\net8.0\strings.deps.json
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\bin\Debug\net8.0\strings.runtimeconfig.json
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\bin\Debug\net8.0\strings.dll
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\bin\Debug\net8.0\strings.pdb
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\obj\Debug\net8.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\obj\Debug\net8.0\strings.AssemblyInfoInputs.cache
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\obj\Debug\net8.0\strings.AssemblyInfo.cs
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\obj\Debug\net8.0\strings.csproj.CoreCompileInputs.cache
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\obj\Debug\net8.0\strings.sourcelink.json
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\obj\Debug\net8.0\strings.dll
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\obj\Debug\net8.0\refint\strings.dll
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\obj\Debug\net8.0\strings.pdb
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\obj\Debug\net8.0\strings.genruntimeconfig.cache
+D:\Downloads\ChatGPT-C#\ChatGPT-Csharp\strings\strings\obj\Debug\net8.0\ref\strings.dll
