@@ -1,0 +1,15 @@
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\bin\Debug\net8.0\D&D Character.exe
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\bin\Debug\net8.0\D&D Character.deps.json
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\bin\Debug\net8.0\D&D Character.runtimeconfig.json
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\bin\Debug\net8.0\D&D Character.dll
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\bin\Debug\net8.0\D&D Character.pdb
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\obj\Debug\net8.0\D&D Character.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\obj\Debug\net8.0\D&D Character.AssemblyInfoInputs.cache
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\obj\Debug\net8.0\D&D Character.AssemblyInfo.cs
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\obj\Debug\net8.0\D&D Character.csproj.CoreCompileInputs.cache
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\obj\Debug\net8.0\D&D Character.sourcelink.json
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\obj\Debug\net8.0\D&D Character.dll
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\obj\Debug\net8.0\refint\D&D Character.dll
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\obj\Debug\net8.0\D&D Character.pdb
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\obj\Debug\net8.0\D&D Character.genruntimeconfig.cache
+D:\Git Hub Trials\Exercises\Exercism\D&D Character\D&D Character\obj\Debug\net8.0\ref\D&D Character.dll
